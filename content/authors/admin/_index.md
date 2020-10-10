@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pmuoz@uc.cl'  # For a direct email link, use "mailto:test@example.org".
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/patodinosaurio/
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pmuoz@uc.cl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,9 +69,8 @@ user_groups:
 ---
 
 Mi nombres es Paula, aunque también se me conoce como *patodinosaurio*, 
-*Lil Paulita* o *Pau-chan*. Hija menor de una familia disfuncional. Tengo 25 
-años y vivo en Maipú, Santiago de Chile.
+*Lil Paulita* o *Pau-chan*. Tengo 25 años y vivo en Maipú, Santiago de Chile.
 
-De día oso perezoso, de noche computina.
+De día oso perezoso, de noche hackerman (no realmente).
 
 Otaku antifascista.
