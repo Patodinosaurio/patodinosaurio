@@ -14,6 +14,11 @@
   weight = 30
 
 [[main]]
+  name = "Galería"
+  url = "#gallery"
+  weight = 50
+
+[[main]]
   name = "Contacto"
   url = "#contact"
   weight = 60
