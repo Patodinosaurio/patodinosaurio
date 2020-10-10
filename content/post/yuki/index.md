@@ -4,7 +4,7 @@ output: hugodown::md_document
 
 title: "Yuki Chips"
 subtitle: ""
-summary: ""
+summary: "Presentación de la bebé"
 authors: [Paula Muñoz Parada]
 tags: [yuki]
 categories: [personal]
@@ -27,9 +27,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-rmd_hash: c945e8ba27e2b875
+rmd_hash: 2824b2e7c1163e3d
 
 ---
 
-![Yuki](yuki.jpeg)
+<figure><img src="yuki.jpeg" width="360" alt="" /><figcaption>Yuki - 14 de Jul 2020 - 7 meses</figcaption></figure>
+
+**Yuki Chips** es mi bebé. Yuki es un nombre japonés que tiene varios significados, uno de ellos es *nieve*. Entonces como es blanca con manchitas es *Yuki Chips*.
+
+Llegó a la casa el 2 de Feb del 2020, tenía 2 meses. La recogieron de un peladero en Lampa, la habían botado a ella y a sus hermanites. Por suerte estaba sanita, con un par de pulgas no más. Pero nada que no se quitara fácil.
+
+Ahora tiene 10 meses, pesa 24 kilos y es la regalona de la casa.
 
