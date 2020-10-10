@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Paula Muñoz Parada
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Estudiante Estadística
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidad Católica
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- R Markdown
+- Videojuegos
+- Anime/Manga
+- Poesía
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Enseñanza Media
+    institution: Liceo 1 Javiera Carrera
+    year: 2007-2012
+  - course: Química y Farmacia
+    institution: Universidad de Chile
+    year: 2013-2016
+  - course: Estadística
+    institution: Universidad Católica
+    year: 2018-Actual
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
